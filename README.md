@@ -1,5 +1,5 @@
 # LEDs_Arduino_Pyfirmata_Python
-make Arduino LEDs work using Pyfirmata (Python)
+Makes Arduino LEDs work using Pyfirmata (Python)
 
 + needs pyfirmata to be imported:
     - Download Arduino app
